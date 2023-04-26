@@ -1,0 +1,26 @@
+{
+  "name": "project-node-todo-list",
+  "version": "1.0.0",
+  "description": "A Nology project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casaunders/project-node-todo-list.git"
+  },
+  "author": "Chris Saunders",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casaunders/project-node-todo-list/issues"
+  },
+  "homepage": "https://github.com/casaunders/project-node-todo-list#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
